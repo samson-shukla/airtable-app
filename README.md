@@ -16,4 +16,4 @@ Well, perform the following and you'll get what you need in no time.
 > This simple app will fetch the data from your Airtable Table and store it in **src → data → airtableData.json** file
 
 Wanna perform more than just data fetching and storing?
-Check out Airtable API [documentation]((https://cdn.iconscout.com/icon/free/png-256/airtable-1482122-1254387.png)](https://airtable.com/api))
+Check out Airtable API [documentation](https://airtable.com/api)
