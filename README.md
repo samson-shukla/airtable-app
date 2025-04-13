@@ -8,12 +8,11 @@ Are you working on **Airtable** and wondering how you can use that data in your 
 Well, perform the following and you'll get what you need in no time.
 - Simply clone this repository
 - Goto **src → config → appConfig.js**
-- Fill up the required details (airtableTableName & airtableViewName)
-- Fill up the environment variables (AIRTABLE_API_KEY & AIRTABLE_BASE_ID) in .env file (already created for you)
+- Fill up the required config details and environment variables
 - Install required dependencies ``` npm install ```
 - Run the app ```npm run start```
 
-> This simple app will fetch the data from your Airtable Table and store it in **src → data → airtableData.json** file
+> This simple app will fetch the data from your Airtable Table and store it in **data → airtableData.json** file
 
 Wanna perform more than just data fetching and storing?
 Check out Airtable API [documentation](https://airtable.com/api)
